@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <title>Eric Liu deployment page</title>
+    </head>
+
+    <body>
+        <h1>Sample Page for Deployment on Render</h1>
+
+        <ul>
+            <li><strong>Name: </strong>Eric Liu</li>
+            <li><strong>Github Location: </strong><a href=https://github.com/eliu9395/eliu1213TERP>https://github.com/eliu9395/eliu1213TERP</a></li>
+            <li><strong>Render Location: </strong><a href=https://eliu1213terp.onrender.com>https://eliu1213terp.onrender.com</a></li>
+            <li><strong>Clearing Database Movies: </strong><a href=https://eliu1213terp.onrender.com/clearCollection>https://eliu1213terp.onrender.com/clearCollection</a></li>
+            <li><strong>Inserting Movies: </strong><a href=https://eliu1213terp.onrender.com/insertMovies>https://eliu1213terp.onrender.com/insertMovies</a></li>
+            <li><strong>Inserting Movies: </strong><a href=https://eliu1213terp.onrender.com/listMovies>https://eliu1213terp.onrender.com/listMovies</a></li>
+            
+        </ul>
+    </body>
+</html>
